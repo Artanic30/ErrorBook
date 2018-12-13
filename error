@@ -5,5 +5,6 @@ address: xxxx
 }
 v-for=“a in courseInfo”      @click=“function(a.name)”
 
+设置动态路由
 Router
 path: course/:id     
