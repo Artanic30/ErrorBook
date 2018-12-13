@@ -1,0 +1,9 @@
+访问v-for中的数据
+courseInfo: {
+name: xxx
+address: xxxx
+}
+v-for=“a in courseInfo”      @click=“function(a.name)”
+
+Router
+path: course/:id     
